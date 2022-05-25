@@ -4,16 +4,16 @@
  * Version: 1.0.0
  * Plugin URI: http://www.hughlashbrooke.com/
  * Description: This is your starter template for your next WordPress plugin.
- * Author: Hugh Lashbrooke
- * Author URI: http://www.hughlashbrooke.com/
- * Requires at least: 4.0
- * Tested up to: 4.0
+ * Author: Ronald Gerssen
+ * Author URI: https://www.graphicgenie.nl/
+ * Requires at least: 6.0
+ * Tested up to: 6.0
  *
  * Text Domain: wordpress-plugin-template
  * Domain Path: /lang/
  *
  * @package WordPress
- * @author Hugh Lashbrooke
+ * @author Ronald Gerssen
  * @since 1.0.0
  */
 
